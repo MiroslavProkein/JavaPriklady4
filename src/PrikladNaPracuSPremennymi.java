@@ -30,6 +30,6 @@ public class PrikladNaPracuSPremennymi {
 
         // vypiste znamku vo formate, ktory je akceptovatelny pre slovaka, cize zobrazime desatinnu ciarku
         // %.2f pouzijem toto aby mi ukazalo desatinnu ciarku namiesto bodky.... na 2 desatinne miesta ak cchem napr na 10 des miest dam %.10f
-        System.out.printf("Student ma znamku %.2f", znamka);
+        System.out.printf("Student  ma znamku %.2f", znamka);
     }
 }
