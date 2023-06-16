@@ -1,8 +1,8 @@
 package sk.tmconsulting.pozdravy.anglicky;
 
-public class Hello {
+public class HelloInEnglish {
     public static void pozdravujem (){
-        System.out.println("Hello!");
+        System.out.println("HelloInEnglish!");
     }
 
     public static void main(String[] args) {
